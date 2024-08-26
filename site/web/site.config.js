@@ -40,12 +40,17 @@ export default {
           path: '/mobile-react/components/fab',
           component: () => import('tdesign-mobile-react/fab/fab.md'),
         },
-
         {
           title: 'Icon 图标',
           name: 'icon',
           path: '/mobile-react/components/icon',
           component: () => import('tdesign-mobile-react/icon/icon.md'),
+        },
+        {
+          title: 'Link 链接',
+          name: 'link',
+          path: '/mobile-react/components/link',
+          component: () => import('tdesign-mobile-react/link/link.md'),
         },
       ],
     },
@@ -252,6 +257,12 @@ export default {
         //   component: () => import('tdesign-mobile-react/image-viewer/image-viewer.md'),
         // },
         {
+          title: 'Result 结果',
+          name: 'result',
+          path: '/mobile-react/components/result',
+          component: () => import('tdesign-mobile-react/result/result.md'),
+        },
+        {
           title: 'Skeleton 骨架屏',
           name: 'skeleton',
           path: '/mobile-react/components/skeleton',
@@ -274,6 +285,12 @@ export default {
           name: 'tag',
           path: '/mobile-react/components/tag',
           component: () => import('tdesign-mobile-react/tag/tag.md'),
+        },
+        {
+          title: 'Table 表格',
+          name: 'table',
+          path: '/mobile-react/components/table',
+          component: () => import('tdesign-mobile-react/table/table.md'),
         },
       ],
     },
@@ -317,6 +334,12 @@ export default {
           name: 'message',
           path: '/mobile-react/components/message',
           component: () => import('tdesign-mobile-react/message/message.md'),
+        },
+        {
+          title: 'Overlay 弹出层',
+          name: 'overlay',
+          path: '/mobile-react/components/overlay',
+          component: () => import('tdesign-mobile-react/overlay/overlay.md'),
         },
         {
           title: 'Popup 弹出层',

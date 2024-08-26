@@ -5,6 +5,7 @@ export * from './button';
 export * from './divider';
 export * from './fab';
 export * from './progress';
+export * from './link';
 
 /**
  * 导航（5个）
@@ -36,7 +37,6 @@ export * from './upload';
 export * from './avatar';
 export * from './badge';
 export * from './cell';
-export * from './cell-group';
 export * from './count-down';
 export * from './grid';
 export * from './image';
@@ -45,7 +45,10 @@ export * from './sticky';
 export * from './swiper';
 export * from './swipe-cell';
 export * from './tag';
+
 export * from './list';
+export * from './result';
+export * from './table';
 
 /**
  * 消息提醒（7个）
