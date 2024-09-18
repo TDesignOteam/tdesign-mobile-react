@@ -23,7 +23,7 @@ export default {
     {
       title: 'Tabs 选项卡',
       name: 'tabs',
-      component: () => import('tdesign-mobile-react/tabs/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/tabs/_example/index.tsx'),
     },
     {
       title: 'Input 输入框',
@@ -125,7 +125,7 @@ export default {
     {
       title: 'Checkbox 多选框',
       name: 'checkbox',
-      component: () => import('tdesign-mobile-react/checkbox/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/checkbox/_example/index.tsx'),
     },
     {
       title: 'Dialog 对话框',
@@ -267,5 +267,10 @@ export default {
       name: 'tree-select',
       component: () => import('tdesign-mobile-react/tree-select/_example/index.tsx'),
     },
+    {
+      title: 'Empty 空状态',
+      name: 'empty',
+      component: () => import('tdesign-mobile-react/empty/_example/index.tsx'),
+    }
   ],
 };
