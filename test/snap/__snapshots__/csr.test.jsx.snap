@@ -25316,1098 +25316,6 @@ exports[`csr snapshot test > csr test src/overlay/_example/index.tsx 1`] = `
 </div>
 `;
 
-exports[`csr snapshot test > csr test src/popover/_example/base.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--default"
-      href="/mobile-react/overview"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default t-link--hover"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/index.tsx 1`] = `
-<div>
-  <div
-    class="tdesign-mobile-demo"
-  >
-    <div
-      class="tdesign-mobile-demo-header"
-    >
-      <h1
-        class="tdesign-mobile-demo-header__title"
-      >
-        Link 链接
-      </h1>
-      <p
-        class="tdesign-mobile-demo-header__summary"
-      >
-        当功能使用图标即可表意清楚时，可使用纯图标悬浮按钮，例如：添加、发布。
-      </p>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <h2
-          class="tdesign-mobile-demo-block__title"
-        >
-          01 组件类型
-        </h2>
-        <p
-          class="tdesign-mobile-demo-block__summary"
-        >
-          基础文字链接
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--default"
-            href="/mobile-react/overview"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default t-link--hover"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <p
-          class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle"
-        >
-          下划线文字链接
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--primary t-link--underline"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <p
-          class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle"
-        >
-          前置图标文字链接
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--primary t-link--underline t-link--hover"
-          >
-            <span
-              class="t-link__prefix-icon"
-            >
-              <svg
-                class="t-icon t-icon-link"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-          >
-            <span
-              class="t-link__prefix-icon"
-            >
-              <svg
-                class="t-icon t-icon-link"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <p
-          class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle"
-        >
-          后置图标文字链接
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--primary t-link--underline"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <h2
-          class="tdesign-mobile-demo-block__title"
-        >
-          02 组件状态
-        </h2>
-        <p
-          class="tdesign-mobile-demo-block__summary"
-        >
-          不同主题
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--primary"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--danger"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-        </div>
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--success"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--warning"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <p
-          class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle"
-        >
-          禁用状态
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--primary t-link--disabled"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--default t-link--disabled"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--danger t-link--disabled"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-        </div>
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--medium t-link--success t-link--disabled"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--warning t-link--disabled"
-          >
-            <span
-              class="t-link__content"
-            >
-              跳转链接
-            </span>
-            <span
-              class="t-link__suffix-icon"
-            >
-              <svg
-                class="t-icon t-icon-jump"
-                fill="none"
-                height="1em"
-                viewBox="0 0 24 24"
-                width="1em"
-              >
-                <path
-                  d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-                  fill="currentColor"
-                />
-              </svg>
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div
-      class="tdesign-mobile-demo-block"
-    >
-      <div
-        class="tdesign-mobile-demo-block__header"
-      >
-        <h2
-          class="tdesign-mobile-demo-block__title"
-        >
-          03 组件样式
-        </h2>
-        <p
-          class="tdesign-mobile-demo-block__summary"
-        >
-          链接尺寸
-        </p>
-      </div>
-      <div
-        class="tdesign-mobile-demo-block__slot"
-      >
-        <div
-          class="demo-content"
-        >
-          <a
-            class="t-link t-link--small t-link--primary"
-          >
-            <span
-              class="t-link__content"
-            >
-              S跳转链接
-            </span>
-          </a>
-          <a
-            class="t-link t-link--medium t-link--primary"
-          >
-            <span
-              class="t-link__content"
-            >
-              M跳转链接
-            </span>
-          </a>
-          <a
-            class="t-link t-link--large t-link--primary"
-          >
-            <span
-              class="t-link__content"
-            >
-              L跳转链接
-            </span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/linkSize.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--small t-link--primary"
-    >
-      <span
-        class="t-link__content"
-      >
-        S跳转链接
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--primary"
-    >
-      <span
-        class="t-link__content"
-      >
-        M跳转链接
-      </span>
-    </a>
-    <a
-      class="t-link t-link--large t-link--primary"
-    >
-      <span
-        class="t-link__content"
-      >
-        L跳转链接
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/prefix.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--primary t-link--underline t-link--hover"
-    >
-      <span
-        class="t-link__prefix-icon"
-      >
-        <svg
-          class="t-icon t-icon-link"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-    >
-      <span
-        class="t-link__prefix-icon"
-      >
-        <svg
-          class="t-icon t-icon-link"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/status.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--primary t-link--disabled"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default t-link--disabled"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--danger t-link--disabled"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-  </div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--success t-link--disabled"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--warning t-link--disabled"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/suffix.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--primary t-link--underline"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/theme.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--primary"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--danger"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-  </div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--success"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--warning"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-      <span
-        class="t-link__suffix-icon"
-      >
-        <svg
-          class="t-icon t-icon-jump"
-          fill="none"
-          height="1em"
-          viewBox="0 0 24 24"
-          width="1em"
-        >
-          <path
-            d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"
-            fill="currentColor"
-          />
-        </svg>
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
-exports[`csr snapshot test > csr test src/popover/_example/underline.tsx 1`] = `
-<div>
-  <div
-    class="demo-content"
-  >
-    <a
-      class="t-link t-link--medium t-link--primary t-link--underline"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-    <a
-      class="t-link t-link--medium t-link--default t-link--underline t-link--hover"
-    >
-      <span
-        class="t-link__content"
-      >
-        跳转链接
-      </span>
-    </a>
-  </div>
-</div>
-`;
-
 exports[`csr snapshot test > csr test src/popup/_example/base.tsx 1`] = `
 <div>
   <div
@@ -45002,6 +43910,3763 @@ exports[`csr snapshot test > csr test src/tag/_example/type.tsx 1`] = `
 </div>
 `;
 
+exports[`csr snapshot test > csr test src/tree-select/_example/base.tsx 1`] = `
+<div>
+  <div
+    class="t-tree-select"
+    style="height: 336px;"
+  >
+    <div
+      class="t-tree-select__column t-tree-select__column--left"
+    >
+      <div
+        class="t-side-bar"
+      >
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项一
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item t-side-bar-item--active"
+        >
+          <div>
+            <div
+              class="t-side-bar-item__line"
+            />
+            <div
+              class="t-side-bar-item__prefix"
+            />
+            <div
+              class="t-side-bar-item__suffix"
+            />
+          </div>
+          <div>
+            选项二
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项三
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项四
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项五
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项六
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项七
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项八
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项九
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项十
+          </div>
+        </div>
+        <div
+          class="t-side-bar__padding"
+        />
+      </div>
+    </div>
+    <div
+      class="t-tree-select__column t-tree-select__column--right"
+    >
+      <div
+        class="t-radio-group"
+      >
+        <div
+          class="t-cell-group"
+        >
+          <div
+            class="tcell-group__container"
+          >
+            <div
+              class="t-radio t-is-checked"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    checked=""
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-0"
+                  />
+                  <div
+                    class="t-radio__icon t-radio__icon--checked"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项一
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-1"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项二
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-2"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项三
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-3"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项四
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-4"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项五
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-5"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项六
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-6"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项七
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-7"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项八
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-8"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项九
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="1-9"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    选项十
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`csr snapshot test > csr test src/tree-select/_example/index.tsx 1`] = `
+<div>
+  <div
+    class="tdesign-mobile-demo"
+  >
+    <div
+      class="tdesign-mobile-demo-header"
+    >
+      <h1
+        class="tdesign-mobile-demo-header__title"
+      >
+        TreeSelect 树形选择器
+      </h1>
+      <p
+        class="tdesign-mobile-demo-header__summary"
+      >
+        用于多层级数据的逐级选择。
+      </p>
+    </div>
+    <div
+      class="tdesign-mobile-demo-block"
+    >
+      <div
+        class="tdesign-mobile-demo-block__header"
+      >
+        <h2
+          class="tdesign-mobile-demo-block__title"
+        >
+          01 组件类型
+        </h2>
+        <p
+          class="tdesign-mobile-demo-block__summary"
+        >
+          基础树形选择
+        </p>
+      </div>
+      <div
+        class="tdesign-mobile-demo-block__slot"
+      >
+        <div
+          class="t-tree-select"
+          style="height: 336px;"
+        >
+          <div
+            class="t-tree-select__column t-tree-select__column--left"
+          >
+            <div
+              class="t-side-bar"
+            >
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项一
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item t-side-bar-item--active"
+              >
+                <div>
+                  <div
+                    class="t-side-bar-item__line"
+                  />
+                  <div
+                    class="t-side-bar-item__prefix"
+                  />
+                  <div
+                    class="t-side-bar-item__suffix"
+                  />
+                </div>
+                <div>
+                  选项二
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项三
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项四
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项五
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项六
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项七
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项八
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项九
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项十
+                </div>
+              </div>
+              <div
+                class="t-side-bar__padding"
+              />
+            </div>
+          </div>
+          <div
+            class="t-tree-select__column t-tree-select__column--right"
+          >
+            <div
+              class="t-radio-group"
+            >
+              <div
+                class="t-cell-group"
+              >
+                <div
+                  class="tcell-group__container"
+                >
+                  <div
+                    class="t-radio t-is-checked"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          checked=""
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-0"
+                        />
+                        <div
+                          class="t-radio__icon t-radio__icon--checked"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项一
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-1"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项二
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-2"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项三
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-3"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项四
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-4"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项五
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-5"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项六
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-6"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项七
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-7"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项八
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-8"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项九
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="1-9"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          选项十
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"
+    >
+      <div
+        class="tdesign-mobile-demo-block__header"
+      >
+        <p
+          class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle"
+        >
+          多选树形选择
+        </p>
+      </div>
+      <div
+        class="tdesign-mobile-demo-block__slot"
+      >
+        <div
+          class="t-tree-select"
+          style="height: 336px;"
+        >
+          <div
+            class="t-tree-select__column t-tree-select__column--left"
+          >
+            <div
+              class="t-side-bar"
+            >
+              <div
+                class="t-side-bar-item t-side-bar-item--active"
+              >
+                <div>
+                  <div
+                    class="t-side-bar-item__line"
+                  />
+                  <div
+                    class="t-side-bar-item__prefix"
+                  />
+                  <div
+                    class="t-side-bar-item__suffix"
+                  />
+                </div>
+                <div>
+                  选项一
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项二
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项三
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项四
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项五
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项六
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项七
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项八
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项九
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  选项十
+                </div>
+              </div>
+              <div
+                class="t-side-bar__padding"
+              />
+            </div>
+          </div>
+          <div
+            class="t-tree-select__column t-tree-select__column--right"
+          >
+            <div
+              class="t-checkbox-group t-tree-select__checkbox"
+            >
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--checked t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right t-checkbox__icon--checked"
+                >
+                  <svg
+                    class="t-icon t-icon-check t-checkbox__icon-wrapper"
+                    fill="none"
+                    height="1em"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title t-checkbox__title--checked"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项一
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--checked t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right t-checkbox__icon--checked"
+                >
+                  <svg
+                    class="t-icon t-icon-check t-checkbox__icon-wrapper"
+                    fill="none"
+                    height="1em"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                  >
+                    <path
+                      d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title t-checkbox__title--checked"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项二
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项三
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项四
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项五
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项六
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项七
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项八
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项九
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+              <div
+                class="t-checkbox t-checkbox--right t-checkbox--block"
+              >
+                <div
+                  class="t-checkbox__icon t-checkbox__icon--right"
+                >
+                  <div
+                    class="placeholder"
+                  />
+                </div>
+                <div
+                  class="t-checkbox__content"
+                >
+                  <div
+                    class="t-checkbox__title"
+                    style="-webkit-line-clamp: 1;"
+                  >
+                    选项十
+                  </div>
+                  <div
+                    class="t-checkbox__description"
+                    style="-webkit-line-clamp: 5;"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="tdesign-mobile-demo-block"
+    >
+      <div
+        class="tdesign-mobile-demo-block__header"
+      >
+        <h2
+          class="tdesign-mobile-demo-block__title"
+        >
+          02 组件状态
+        </h2>
+        <p
+          class="tdesign-mobile-demo-block__summary"
+        >
+          三级树形选择
+        </p>
+      </div>
+      <div
+        class="tdesign-mobile-demo-block__slot"
+      >
+        <div
+          class="t-tree-select"
+          style="height: 336px;"
+        >
+          <div
+            class="t-tree-select__column t-tree-select__column--left"
+          >
+            <div
+              class="t-side-bar"
+            >
+              <div
+                class="t-side-bar-item t-side-bar-item--active"
+              >
+                <div>
+                  <div
+                    class="t-side-bar-item__line"
+                  />
+                  <div
+                    class="t-side-bar-item__prefix"
+                  />
+                  <div
+                    class="t-side-bar-item__suffix"
+                  />
+                </div>
+                <div>
+                  北京市
+                </div>
+              </div>
+              <div
+                class="t-side-bar-item"
+              >
+                <div>
+                  广东省
+                </div>
+              </div>
+              <div
+                class="t-side-bar__padding"
+              />
+            </div>
+          </div>
+          <div
+            class="t-tree-select__column t-tree-select__column--middle"
+          >
+            <div
+              class="t-tree-select__item t-tree-select__item--active t-tree-select__item--disabled"
+            >
+              北京市
+            </div>
+          </div>
+          <div
+            class="t-tree-select__column t-tree-select__column--right"
+          >
+            <div
+              class="t-radio-group"
+            >
+              <div
+                class="t-cell-group"
+              >
+                <div
+                  class="tcell-group__container"
+                >
+                  <div
+                    class="t-radio t-is-checked"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          checked=""
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110101"
+                        />
+                        <div
+                          class="t-radio__icon t-radio__icon--checked"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          东城区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio t-is-disabled"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          disabled=""
+                          readonly=""
+                          type="radio"
+                          value="110102"
+                        />
+                        <div
+                          class="t-radio__icon t-radio__icon--disabled"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          西城区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110105"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          朝阳区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110106"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          丰台区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110107"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          石景山区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110108"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          海淀区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110109"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          门头沟区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110111"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          房山区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110112"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          通州区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110113"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          顺义区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110114"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          昌平区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110115"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          大兴区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110116"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          怀柔区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110117"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          平谷区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110118"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          密云区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                  <div
+                    class="t-radio"
+                  >
+                    <span
+                      class="t-radio__content-wrap"
+                    >
+                      <span
+                        class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                      >
+                        <input
+                          class="t-radio__original-left"
+                          readonly=""
+                          type="radio"
+                          value="110119"
+                        />
+                        <div
+                          class="t-radio__icon"
+                        >
+                          <svg
+                            class="t-icon t-icon-check"
+                            fill="none"
+                            height="1em"
+                            style="font-size: 16px;"
+                            viewBox="0 0 24 24"
+                            width="1em"
+                          >
+                            <path
+                              d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </div>
+                      </span>
+                      <span
+                        class="t-radio__label-wrap"
+                      >
+                        <div
+                          class="t-radio__content-inner"
+                          style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                        >
+                          延庆区
+                        </div>
+                      </span>
+                    </span>
+                    <div
+                      class="t-radio__border t-radio__border--left"
+                    />
+                    <div />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`csr snapshot test > csr test src/tree-select/_example/multiple.tsx 1`] = `
+<div>
+  <div
+    class="t-tree-select"
+    style="height: 336px;"
+  >
+    <div
+      class="t-tree-select__column t-tree-select__column--left"
+    >
+      <div
+        class="t-side-bar"
+      >
+        <div
+          class="t-side-bar-item t-side-bar-item--active"
+        >
+          <div>
+            <div
+              class="t-side-bar-item__line"
+            />
+            <div
+              class="t-side-bar-item__prefix"
+            />
+            <div
+              class="t-side-bar-item__suffix"
+            />
+          </div>
+          <div>
+            选项一
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项二
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项三
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项四
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项五
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项六
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项七
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项八
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项九
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            选项十
+          </div>
+        </div>
+        <div
+          class="t-side-bar__padding"
+        />
+      </div>
+    </div>
+    <div
+      class="t-tree-select__column t-tree-select__column--right"
+    >
+      <div
+        class="t-checkbox-group t-tree-select__checkbox"
+      >
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--checked t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right t-checkbox__icon--checked"
+          >
+            <svg
+              class="t-icon t-icon-check t-checkbox__icon-wrapper"
+              fill="none"
+              height="1em"
+              viewBox="0 0 24 24"
+              width="1em"
+            >
+              <path
+                d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title t-checkbox__title--checked"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项一
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--checked t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right t-checkbox__icon--checked"
+          >
+            <svg
+              class="t-icon t-icon-check t-checkbox__icon-wrapper"
+              fill="none"
+              height="1em"
+              viewBox="0 0 24 24"
+              width="1em"
+            >
+              <path
+                d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                fill="currentColor"
+              />
+            </svg>
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title t-checkbox__title--checked"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项二
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项三
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项四
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项五
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项六
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项七
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项八
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项九
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+        <div
+          class="t-checkbox t-checkbox--right t-checkbox--block"
+        >
+          <div
+            class="t-checkbox__icon t-checkbox__icon--right"
+          >
+            <div
+              class="placeholder"
+            />
+          </div>
+          <div
+            class="t-checkbox__content"
+          >
+            <div
+              class="t-checkbox__title"
+              style="-webkit-line-clamp: 1;"
+            >
+              选项十
+            </div>
+            <div
+              class="t-checkbox__description"
+              style="-webkit-line-clamp: 5;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`csr snapshot test > csr test src/tree-select/_example/normal.tsx 1`] = `
+<div>
+  <div
+    class="t-tree-select"
+    style="height: 336px;"
+  >
+    <div
+      class="t-tree-select__column t-tree-select__column--left"
+    >
+      <div
+        class="t-side-bar"
+      >
+        <div
+          class="t-side-bar-item t-side-bar-item--active"
+        >
+          <div>
+            <div
+              class="t-side-bar-item__line"
+            />
+            <div
+              class="t-side-bar-item__prefix"
+            />
+            <div
+              class="t-side-bar-item__suffix"
+            />
+          </div>
+          <div>
+            北京市
+          </div>
+        </div>
+        <div
+          class="t-side-bar-item"
+        >
+          <div>
+            广东省
+          </div>
+        </div>
+        <div
+          class="t-side-bar__padding"
+        />
+      </div>
+    </div>
+    <div
+      class="t-tree-select__column t-tree-select__column--middle"
+    >
+      <div
+        class="t-tree-select__item t-tree-select__item--active t-tree-select__item--disabled"
+      >
+        北京市
+      </div>
+    </div>
+    <div
+      class="t-tree-select__column t-tree-select__column--right"
+    >
+      <div
+        class="t-radio-group"
+      >
+        <div
+          class="t-cell-group"
+        >
+          <div
+            class="tcell-group__container"
+          >
+            <div
+              class="t-radio t-is-checked"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    checked=""
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110101"
+                  />
+                  <div
+                    class="t-radio__icon t-radio__icon--checked"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    东城区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio t-is-disabled"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    disabled=""
+                    readonly=""
+                    type="radio"
+                    value="110102"
+                  />
+                  <div
+                    class="t-radio__icon t-radio__icon--disabled"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    西城区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110105"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    朝阳区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110106"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    丰台区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110107"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    石景山区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110108"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    海淀区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110109"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    门头沟区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110111"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    房山区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110112"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    通州区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110113"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    顺义区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110114"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    昌平区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110115"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    大兴区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110116"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    怀柔区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110117"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    平谷区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110118"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    密云区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+            <div
+              class="t-radio"
+            >
+              <span
+                class="t-radio__content-wrap"
+              >
+                <span
+                  class="t-radio__icon-wrap t-radio__icon-left-wrap"
+                >
+                  <input
+                    class="t-radio__original-left"
+                    readonly=""
+                    type="radio"
+                    value="110119"
+                  />
+                  <div
+                    class="t-radio__icon"
+                  >
+                    <svg
+                      class="t-icon t-icon-check"
+                      fill="none"
+                      height="1em"
+                      style="font-size: 16px;"
+                      viewBox="0 0 24 24"
+                      width="1em"
+                    >
+                      <path
+                        d="M20.99 7.38l-10.61 10.6L4 11.63l1.42-1.41 4.95 4.95 9.2-9.2 1.4 1.42z"
+                        fill="currentColor"
+                      />
+                    </svg>
+                  </div>
+                </span>
+                <span
+                  class="t-radio__label-wrap"
+                >
+                  <div
+                    class="t-radio__content-inner"
+                    style="display: -webkit-box; overflow: hidden; -webkit-line-clamp: 5;"
+                  >
+                    延庆区
+                  </div>
+                </span>
+              </span>
+              <div
+                class="t-radio__border t-radio__border--left"
+              />
+              <div />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`ssr snapshot test > ssr test src/back-top/_example/base.tsx 1`] = `"<div class="button-group"><button type="button" class="t-button t-button--size-medium t-button--outline t-button--primary t-button--rectangle button"><span class="t-button__content"> <!-- -->圆形返回顶部</span></button><button type="button" class="t-button t-button--size-medium t-button--outline t-button--primary t-button--rectangle button"><span class="t-button__content"> <!-- -->半圆形返回顶部</span></button></div>"`;
 
 exports[`ssr snapshot test > ssr test src/back-top/_example/index.tsx 1`] = `"<div class="tdesign-mobile-react-demo"><div class="tdesign-mobile-demo-header"><h1 class="tdesign-mobile-demo-header__title">BackTop 返回顶部</h1><p class="tdesign-mobile-demo-header__summary">当页面过长往下滑动是会出现返回顶部的便捷操作，帮助用户快速回到页面顶部</p></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">形状</h2></div><div class="tdesign-mobile-demo-block__slot"><div class="button-group"><button type="button" class="t-button t-button--size-medium t-button--outline t-button--primary t-button--rectangle button"><span class="t-button__content"> <!-- -->圆形返回顶部</span></button><button type="button" class="t-button t-button--size-medium t-button--outline t-button--primary t-button--rectangle button"><span class="t-button__content"> <!-- -->半圆形返回顶部</span></button></div></div></div><div class="group"><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div><div class="item"><div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:165.5px;height:165.5px;border-radius:12px"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none"></div></div><div class="t-skeleton__row"><div class="t-skeleton__col t-skeleton--type-text t-skeleton--animation-none" style="width:100px"></div></div></div></div></div></div>"`;
@@ -45236,22 +47901,6 @@ exports[`ssr snapshot test > ssr test src/overlay/_example/base.tsx 1`] = `"<div
 
 exports[`ssr snapshot test > ssr test src/overlay/_example/index.tsx 1`] = `"<div class="tdesign-mobile-demo"><div class="tdesign-mobile-demo-header"><h1 class="tdesign-mobile-demo-header__title">Overlay 遮罩层</h1><p class="tdesign-mobile-demo-header__summary">通过遮罩层，可以强调部分内容</p></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">01 组件</h2><p class="tdesign-mobile-demo-block__summary">基础遮罩层</p></div><div class="tdesign-mobile-demo-block__slot with-padding"><div><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block"><span class="t-button__content"> <!-- -->基础用法</span></button></div></div></div></div>"`;
 
-exports[`ssr snapshot test > ssr test src/popover/_example/base.tsx 1`] = `"<div class="demo-content"><a href="/mobile-react/overview" class="t-link t-link--medium t-link--default"><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--hover"><span class="t-link__content">跳转链接</span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/index.tsx 1`] = `"<div class="tdesign-mobile-demo"><div class="tdesign-mobile-demo-header"><h1 class="tdesign-mobile-demo-header__title">Link 链接</h1><p class="tdesign-mobile-demo-header__summary">当功能使用图标即可表意清楚时，可使用纯图标悬浮按钮，例如：添加、发布。</p></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">01 组件类型</h2><p class="tdesign-mobile-demo-block__summary">基础文字链接</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a href="/mobile-react/overview" class="t-link t-link--medium t-link--default"><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--hover"><span class="t-link__content">跳转链接</span></a></div></div></div><div class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"><div class="tdesign-mobile-demo-block__header"><p class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle">下划线文字链接</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline"><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__content">跳转链接</span></a></div></div></div><div class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"><div class="tdesign-mobile-demo-block__header"><p class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle">前置图标文字链接</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline t-link--hover"><span class="t-link__prefix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-link"><path fill="currentColor" d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"></path></svg></span><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__prefix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-link"><path fill="currentColor" d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"></path></svg></span><span class="t-link__content">跳转链接</span></a></div></div></div><div class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"><div class="tdesign-mobile-demo-block__header"><p class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle">后置图标文字链接</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div></div></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">02 组件状态</h2><p class="tdesign-mobile-demo-block__summary">不同主题</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--medium t-link--primary"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--danger"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div><div class="demo-content"><a class="t-link t-link--medium t-link--success"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--warning"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div></div></div><div class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"><div class="tdesign-mobile-demo-block__header"><p class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle">禁用状态</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--danger t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div><div class="demo-content"><a class="t-link t-link--medium t-link--success t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--warning t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div></div></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">03 组件样式</h2><p class="tdesign-mobile-demo-block__summary">链接尺寸</p></div><div class="tdesign-mobile-demo-block__slot"><div class="demo-content"><a class="t-link t-link--small t-link--primary"><span class="t-link__content">S跳转链接</span></a><a class="t-link t-link--medium t-link--primary"><span class="t-link__content">M跳转链接</span></a><a class="t-link t-link--large t-link--primary"><span class="t-link__content">L跳转链接</span></a></div></div></div></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/linkSize.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--small t-link--primary"><span class="t-link__content">S跳转链接</span></a><a class="t-link t-link--medium t-link--primary"><span class="t-link__content">M跳转链接</span></a><a class="t-link t-link--large t-link--primary"><span class="t-link__content">L跳转链接</span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/prefix.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline t-link--hover"><span class="t-link__prefix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-link"><path fill="currentColor" d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"></path></svg></span><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__prefix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-link"><path fill="currentColor" d="M13.3 3.96a4.77 4.77 0 116.74 6.75l-3.03 3.03-1.41-1.42 3.03-3.03a2.77 2.77 0 10-3.92-3.92L11.68 8.4 10.26 7l3.03-3.03zM15.4 10L10 15.41 8.58 14 14 8.59 15.4 10zm-7 1.68L5.36 14.7a2.77 2.77 0 103.92 3.92l3.03-3.03L13.74 17l-3.03 3.03a4.77 4.77 0 11-6.75-6.75l3.03-3.03 1.41 1.42z"></path></svg></span><span class="t-link__content">跳转链接</span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/status.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--danger t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div><div class="demo-content"><a class="t-link t-link--medium t-link--success t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--warning t-link--disabled"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/suffix.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/theme.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--medium t-link--primary"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--default"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--danger"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div><div class="demo-content"><a class="t-link t-link--medium t-link--success"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a><a class="t-link t-link--medium t-link--warning"><span class="t-link__content">跳转链接</span><span class="t-link__suffix-icon"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-jump"><path fill="currentColor" d="M3 21V3h7.1v2H5v14h14v-5.1h2V21H3zm7.59-9l7-7H13V3h8v8h-2V6.41l-7 7L10.59 12z"></path></svg></span></a></div>"`;
-
-exports[`ssr snapshot test > ssr test src/popover/_example/underline.tsx 1`] = `"<div class="demo-content"><a class="t-link t-link--medium t-link--primary t-link--underline"><span class="t-link__content">跳转链接</span></a><a class="t-link t-link--medium t-link--default t-link--underline t-link--hover"><span class="t-link__content">跳转链接</span></a></div>"`;
-
 exports[`ssr snapshot test > ssr test src/popup/_example/base.tsx 1`] = `"<div style="padding:0 16px"><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block" style="margin:16px 0"><span class="t-button__content"> <!-- -->顶部弹出</span></button><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block" style="margin:16px 0"><span class="t-button__content"> <!-- -->左侧弹出</span></button><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block" style="margin:16px 0"><span class="t-button__content"> <!-- -->中间弹出</span></button><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block" style="margin:16px 0"><span class="t-button__content"> <!-- -->底部弹出</span></button><button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block" style="margin:16px 0"><span class="t-button__content"> <!-- -->右侧弹出</span></button><div class="t-popup t-popup--top" style="display:none;animation-fill-mode:forwards;padding:100px"></div></div>"`;
 
 exports[`ssr snapshot test > ssr test src/popup/_example/custom-close.tsx 1`] = `"<button type="button" class="t-button t-button--size-large t-button--outline t-button--primary t-button--rectangle t-button--block"><span class="t-button__content"> <!-- -->居中弹出层-带自定义关闭按钮</span></button><div class="t-popup t-popup--center" style="display:none;animation-fill-mode:forwards;width:240px;height:240px"><svg fill="none" viewBox="0 0 24 24" width="1em" height="1em" class="t-icon t-icon-close-circle design-mobile-popup-demo__custom-close close-btn" style="font-size:32px" color="#fff"><path fill="currentColor" d="M12 21a9 9 0 100-18 9 9 0 000 18zm11-9a11 11 0 11-22 0 11 11 0 0122 0zM7.4 15.18L10.6 12 7.4 8.82 8.82 7.4 12 10.6l3.18-3.19 1.42 1.42L13.4 12l3.19 3.18-1.42 1.42L12 13.4 8.82 16.6 7.4 15.18z"></path></svg></div>"`;
@@ -45373,3 +48022,11 @@ exports[`ssr snapshot test > ssr test src/tag/_example/size.tsx 1`] = `"<div cla
 exports[`ssr snapshot test > ssr test src/tag/_example/theme.tsx 1`] = `"<div class="summary">展示型标签</div><div class="tag-demo"><div><div class="tag-block"><span class="t-tag t-tag--default t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">默认</span></span><span class="t-tag t-tag--primary t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">主要</span></span><span class="t-tag t-tag--warning t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">警告</span></span><span class="t-tag t-tag--danger t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">危险</span></span><span class="t-tag t-tag--success t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">成功</span></span></div><div class="tag-block"><span class="t-tag t-tag--default t-tag--square t-tag--dark t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">默认</span></span><span class="t-tag t-tag--primary t-tag--square t-tag--dark t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">主要</span></span><span class="t-tag t-tag--warning t-tag--square t-tag--dark t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">警告</span></span><span class="t-tag t-tag--danger t-tag--square t-tag--dark t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">危险</span></span><span class="t-tag t-tag--success t-tag--square t-tag--dark t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">成功</span></span></div><div class="tag-block"><span class="t-tag t-tag--default t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">默认</span></span><span class="t-tag t-tag--primary t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">主要</span></span><span class="t-tag t-tag--warning t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">警告</span></span><span class="t-tag t-tag--danger t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">危险</span></span><span class="t-tag t-tag--success t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">成功</span></span></div><div class="tag-block"><span class="t-tag t-tag--default t-tag--square t-tag--light-outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">默认</span></span><span class="t-tag t-tag--primary t-tag--square t-tag--light-outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">主要</span></span><span class="t-tag t-tag--warning t-tag--square t-tag--light-outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">警告</span></span><span class="t-tag t-tag--danger t-tag--square t-tag--light-outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">危险</span></span><span class="t-tag t-tag--success t-tag--square t-tag--light-outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">成功</span></span></div></div></div>"`;
 
 exports[`ssr snapshot test > ssr test src/tag/_example/type.tsx 1`] = `"<div class="summary">基础标签</div><div class="tag-demo"><span class="t-tag t-tag--default t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">标签文字</span></span><span class="t-tag t-tag--default t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">标签文字</span></span></div><div class="summary">圆弧标签</div><div class="tag-demo"><span class="t-tag t-tag--default t-tag--round t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">标签文字</span></span><span class="t-tag t-tag--default t-tag--round t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">标签文字</span></span><span class="t-tag t-tag--default t-tag--mark t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__text">标签文字</span></span></div><div class="summary">带图标的标签</div><div class="tag-demo"><span class="t-tag t-tag--default t-tag--square t-tag--light t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__icon"><svg class="t-icon t-icon-discount"><use xlink:href="#t-icon-discount"></use></svg></span><span class="t-tag__text">标签文字</span></span><span class="t-tag t-tag--default t-tag--square t-tag--outline t-tag--medium" aria-disabled="false" role="button"><span class="t-tag__icon"><svg class="t-icon t-icon-discount"><use xlink:href="#t-icon-discount"></use></svg></span><span class="t-tag__text">标签文字</span></span></div><div class="summary">超长文本省略标签</div><div class="tag-demo"><span class="t-tag t-tag--default t-tag--square t-tag--light t-tag--medium" style="max-width:130px" aria-disabled="false" role="button"><span class="t-tag__text">听说超长可以省略听说超长</span></span></div>"`;
+
+exports[`ssr snapshot test > ssr test src/tree-select/_example/base.tsx 1`] = `"<div class="t-tree-select" style="height:336px"></div>"`;
+
+exports[`ssr snapshot test > ssr test src/tree-select/_example/index.tsx 1`] = `"<div class="tdesign-mobile-demo"><div class="tdesign-mobile-demo-header"><h1 class="tdesign-mobile-demo-header__title">TreeSelect 树形选择器</h1><p class="tdesign-mobile-demo-header__summary">用于多层级数据的逐级选择。</p></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">01 组件类型</h2><p class="tdesign-mobile-demo-block__summary">基础树形选择</p></div><div class="tdesign-mobile-demo-block__slot"><div class="t-tree-select" style="height:336px"></div></div></div><div class="tdesign-mobile-demo-block tdesign-mobile-demo-block_subtitle"><div class="tdesign-mobile-demo-block__header"><p class="tdesign-mobile-demo-block__summary tdesign-mobile-demo-block_subtitle">多选树形选择</p></div><div class="tdesign-mobile-demo-block__slot"><div class="t-tree-select" style="height:336px"></div></div></div><div class="tdesign-mobile-demo-block"><div class="tdesign-mobile-demo-block__header"><h2 class="tdesign-mobile-demo-block__title">02 组件状态</h2><p class="tdesign-mobile-demo-block__summary">三级树形选择</p></div><div class="tdesign-mobile-demo-block__slot"><div class="t-tree-select" style="height:336px"></div></div></div></div>"`;
+
+exports[`ssr snapshot test > ssr test src/tree-select/_example/multiple.tsx 1`] = `"<div class="t-tree-select" style="height:336px"></div>"`;
+
+exports[`ssr snapshot test > ssr test src/tree-select/_example/normal.tsx 1`] = `"<div class="t-tree-select" style="height:336px"></div>"`;
