@@ -66,7 +66,7 @@ export * from './drawer';
  * 二期组件
  */
 export * from './collapse';
-
+export * from './tree-select';
 export * from './notice-bar';
 
 /**
