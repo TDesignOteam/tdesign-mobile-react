@@ -63,7 +63,7 @@ export default {
     {
       title: 'Slider 滑动选择器',
       name: 'slider',
-      component: () => import('tdesign-mobile-react/slider/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/slider/_example/index.tsx'),
     },
     {
       title: 'Radio 单选框',
@@ -180,7 +180,7 @@ export default {
     {
       title: 'SwipeCell 滑动单元格',
       name: 'swipe-cell',
-      component: () => import('tdesign-mobile-react/swipe-cell/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/swipe-cell/_example/index.tsx'),
     },
     {
       title: 'Tag 标签',
@@ -205,7 +205,7 @@ export default {
     {
       title: 'Stepper 步进器',
       name: 'Stepper',
-      component: () => import('tdesign-mobile-react/stepper/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/stepper/_example/index.tsx'),
     },
     {
       title: 'PullDownRefresh 下拉刷新',
@@ -220,7 +220,7 @@ export default {
     {
       title: 'Indexes 索引',
       name: 'indexes',
-      component: () => import('tdesign-mobile-react/indexes/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/indexes/_example/index.tsx'),
     },
     {
       title: 'Picker 选择器',
