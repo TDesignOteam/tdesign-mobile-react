@@ -16,9 +16,14 @@ export default {
       component: () => import('tdesign-mobile-react/icon/_example/index.tsx'),
     },
     {
+      title: 'Layout 布局',
+      name: 'layout',
+      component: () => import('tdesign-mobile-react/layout/_example/index.tsx'),
+    },
+    {
       title: 'Tabs 选项卡',
       name: 'tabs',
-      component: () => import('tdesign-mobile-react/tabs/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/tabs/_example/index.tsx'),
     },
     {
       title: 'Input 输入框',
@@ -46,6 +51,11 @@ export default {
       component: () => import('tdesign-mobile-react/overlay/_example/index.tsx'),
     },
     {
+      title: 'Popover 弹出气泡',
+      name: 'popover',
+      component: () => import('tdesign-mobile-react/popover/_example/index.tsx'),
+    },
+    {
       title: 'Popup 弹出层',
       name: 'popup',
       component: () => import('tdesign-mobile-react/popup/_example/index.tsx'),
@@ -58,7 +68,7 @@ export default {
     {
       title: 'Slider 滑动选择器',
       name: 'slider',
-      component: () => import('tdesign-mobile-react/slider/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/slider/_example/index.tsx'),
     },
     {
       title: 'Radio 单选框',
@@ -125,7 +135,7 @@ export default {
     {
       title: 'Checkbox 多选框',
       name: 'checkbox',
-      component: () => import('tdesign-mobile-react/checkbox/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/checkbox/_example/index.tsx'),
     },
     {
       title: 'Dialog 对话框',
@@ -148,9 +158,34 @@ export default {
       component: () => import('tdesign-mobile-react/navbar/_example/index.tsx'),
     },
     {
+      title: 'SideBar 侧边栏',
+      name: 'side-bar',
+      component: () => import('tdesign-mobile-react/side-bar/_example/index.tsx'),
+    },
+    {
+      title: 'SideBar 侧边栏',
+      name: 'side-bar-base',
+      component: () => import('tdesign-mobile-react/side-bar/_example/base.tsx'),
+    },
+    {
+      title: 'SideBar 侧边栏',
+      name: 'side-bar-switch',
+      component: () => import('tdesign-mobile-react/side-bar/_example/switch.tsx'),
+    },
+    {
+      title: 'SideBar 侧边栏',
+      name: 'side-bar-with-icon',
+      component: () => import('tdesign-mobile-react/side-bar/_example/with-icon.tsx'),
+    },
+    {
+      title: 'SideBar 侧边栏',
+      name: 'side-bar-custom',
+      component: () => import('tdesign-mobile-react/side-bar/_example/custom.tsx'),
+    },
+    {
       title: 'SwipeCell 滑动单元格',
       name: 'swipe-cell',
-      component: () => import('tdesign-mobile-react/swipe-cell/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/swipe-cell/_example/index.tsx'),
     },
     {
       title: 'Tag 标签',
@@ -160,22 +195,22 @@ export default {
     {
       title: 'Toast 轻提示',
       name: 'toast',
-      component: () => import('tdesign-mobile-react/toast/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/toast/_example/index.tsx'),
     },
     {
       title: 'Drawer 抽屉',
       name: 'drawer',
-      component: () => import('tdesign-mobile-react/drawer/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/drawer/_example/index.tsx'),
     },
     {
       title: 'Collapse 折叠面板',
       name: 'Collapse',
-      component: () => import('tdesign-mobile-react/collapse/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/collapse/_example/index.tsx'),
     },
     {
       title: 'Stepper 步进器',
       name: 'Stepper',
-      component: () => import('tdesign-mobile-react/stepper/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/stepper/_example/index.tsx'),
     },
     {
       title: 'PullDownRefresh 下拉刷新',
@@ -190,7 +225,7 @@ export default {
     {
       title: 'Indexes 索引',
       name: 'indexes',
-      component: () => import('tdesign-mobile-react/indexes/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/indexes/_example/index.tsx'),
     },
     {
       title: 'Picker 选择器',
@@ -210,7 +245,7 @@ export default {
     {
       title: 'TabBar 标签栏',
       name: 'tab-bar',
-      component: () => import('tdesign-mobile-react/tab-bar/_example/mobile.jsx'),
+      component: () => import('tdesign-mobile-react/tab-bar/_example/mobile.tsx'),
     },
     {
       title: 'Fab 悬浮按钮',
@@ -220,7 +255,7 @@ export default {
     {
       title: 'NoticeBar 公告栏',
       name: 'notice-bar',
-      component: () => import('tdesign-mobile-react/notice-bar/_example/mobile.jsx'),
+      component: () => import('tdesign-mobile-react/notice-bar/_example/mobile.tsx'),
     },
     {
       title: 'Result 结果',
@@ -235,7 +270,12 @@ export default {
     {
       title: 'Table 表格',
       name: 'table',
-      component: () => import('tdesign-mobile-react/table/_example/index.jsx'),
+      component: () => import('tdesign-mobile-react/table/_example/index.tsx'),
+    },
+    {
+      title: 'Empty 空状态',
+      name: 'empty',
+      component: () => import('tdesign-mobile-react/empty/_example/index.tsx'),
     },
   ],
 };

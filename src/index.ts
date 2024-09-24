@@ -5,6 +5,7 @@ export * from './button';
 export * from './divider';
 export * from './fab';
 export * from './progress';
+export * from './layout';
 export * from './link';
 
 /**
@@ -49,6 +50,7 @@ export * from './tag';
 export * from './list';
 export * from './result';
 export * from './table';
+export * from './empty';
 
 /**
  * 消息提醒（7个）
@@ -61,6 +63,7 @@ export * from './popup';
 export * from './pull-down-refresh';
 export * from './toast';
 export * from './drawer';
+export * from './popover';
 
 /**
  * 二期组件
