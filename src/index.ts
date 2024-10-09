@@ -67,7 +67,7 @@ export * from './popover';
  * 二期组件
  */
 export * from './collapse';
-
+export * from './calendar';
 export * from './notice-bar';
 
 /**
