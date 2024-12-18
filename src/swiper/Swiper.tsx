@@ -276,7 +276,7 @@ const Swiper = forwardRefWithStatics(
       updateContainerTransfrom(directionAxis, step);
     };
 
-    const caculateItemIndex = useCallback((nextIndex: number, max: number, loop: boolean) => {
+    const calculateItemIndex = useCallback((nextIndex: number, max: number, loop: boolean) => {
       let itemIndex = nextIndex;
       if (nextIndex < 0) {
         itemIndex = loop ? (nextIndex + max) % max : 0;
@@ -286,7 +286,7 @@ const Swiper = forwardRefWithStatics(
       return itemIndex;
     }, []);
 
-    const caculateSwiperItemIndex = useCallback(
+    const calculateSwiperItemIndex = useCallback(
       (
         nextIndex: number,
         previousIndex: number,
@@ -294,7 +294,7 @@ const Swiper = forwardRefWithStatics(
         loop: boolean,
         outStep: number | undefined = undefined,
       ) => {
-        const itemIndex = caculateItemIndex(nextIndex, max, loop);
+        const itemIndex = calculateItemIndex(nextIndex, max, loop);
         if (itemIndex === previousIndex) {
           return { index: itemIndex, step: 0 };
         }
@@ -306,7 +306,7 @@ const Swiper = forwardRefWithStatics(
         }
         return { index: itemIndex, step };
       },
-      [caculateItemIndex],
+      [calculateItemIndex],
     );
 
     // 进入idle状态
@@ -324,7 +324,7 @@ const Swiper = forwardRefWithStatics(
     const enterSwitching = useCallback(
       (axis: string, outerStep: number | undefined = undefined) => {
         // 根据nextIndex计算需要定位到的
-        const { index, step } = caculateSwiperItemIndex(
+        const { index, step } = calculateSwiperItemIndex(
           nextIndex.current,
           previousIndex.current,
           items.current.length,
@@ -340,18 +340,18 @@ const Swiper = forwardRefWithStatics(
         }));
         setSwiperStatus(SwiperStatus.SWITCHING);
       },
-      [caculateSwiperItemIndex, duration, loop, updateSwiperItemClassName],
+      [calculateSwiperItemIndex, duration, loop, updateSwiperItemClassName],
     );
 
     // 退出切换状态
     const quitSwitching = useCallback(
       (axis: string) => {
-        previousIndex.current = caculateItemIndex(nextIndex.current, items.current.length, loop);
+        previousIndex.current = calculateItemIndex(nextIndex.current, items.current.length, loop);
         updateSwiperItemPosition(axis, previousIndex.current, loop);
         enterIdle(axis);
         setItemChange((prevState) => !prevState);
       },
-      [caculateItemIndex, enterIdle, loop, updateSwiperItemPosition],
+      [calculateItemIndex, enterIdle, loop, updateSwiperItemPosition],
     );
 
     // 上一页
@@ -408,20 +408,20 @@ const Swiper = forwardRefWithStatics(
 
     useEffect(() => {
       // 初始化卡片的位置
-      previousIndex.current = caculateItemIndex(previousIndex.current, items.current.length, loop);
+      previousIndex.current = calculateItemIndex(previousIndex.current, items.current.length, loop);
       updateSwiperItemClassName(previousIndex.current, loop);
       setDotIndex(() => previousIndex.current);
       updateSwiperItemPosition(directionAxis, previousIndex.current, loop);
-    }, [caculateItemIndex, directionAxis, enterSwitching, loop, updateSwiperItemClassName, updateSwiperItemPosition]);
+    }, [calculateItemIndex, directionAxis, enterSwitching, loop, updateSwiperItemClassName, updateSwiperItemPosition]);
 
     useEffect(() => {
       if (currentIsNull) return;
       console.log(`[Swiper].current = ${current}, previousIndex = ${previousIndex.current}`);
-      nextIndex.current = caculateItemIndex(current, items.current.length, loop);
+      nextIndex.current = calculateItemIndex(current, items.current.length, loop);
       if (previousIndex.current !== nextIndex.current) {
         enterSwitching(directionAxis);
       }
-    }, [caculateItemIndex, current, directionAxis, enterSwitching, loop, currentIsNull]);
+    }, [calculateItemIndex, current, directionAxis, enterSwitching, loop, currentIsNull]);
 
     useEffect(() => {
       onChange?.(previousIndex.current, { source: swiperSource.current });
