@@ -167,7 +167,7 @@ const Swiper = forwardRefWithStatics(
       itemRef?.updateClassNameSuffix(suffix);
     }, []);
 
-    const updateContainerTransfrom = (axis: string, step: number) => {
+    const updateContainerTransform = (axis: string, step: number) => {
       setSwiperStyle((prevState) => ({
         ...prevState,
         transform: generateTransform(axis, step),
@@ -273,7 +273,7 @@ const Swiper = forwardRefWithStatics(
 
       checkSwipeItemInvisible(activeIndex, directionAxis, step, loop);
       step = step > 1 || step < -1 ? step / Math.abs(step) : step;
-      updateContainerTransfrom(directionAxis, step);
+      updateContainerTransform(directionAxis, step);
     };
 
     const calculateItemIndex = useCallback((nextIndex: number, max: number, loop: boolean) => {
